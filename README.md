@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @Mohammadpoormalik
-- 👀 I’m interested in python
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me Commemoration of work and life skills training center
-
-- 😄 Pronouns: ...
+- 👋 Hi, I’m @Mohammadpoormalik.
+- 👀 I’m interested in python.
+- 🌱 I’m currently learning python.
 - ⚡ Fun fact: Everyone should learn computer programming nowadays, because programming teaches you how to think ;) 
 
 <!---
